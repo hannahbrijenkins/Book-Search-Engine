@@ -11,7 +11,6 @@ const typeDefs = gql`
             description: String!,
             title: String!,
             bookId: String!,
-            image: ,
             link: String!
         ): User
     }
